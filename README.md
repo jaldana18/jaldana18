@@ -35,11 +35,11 @@ Playwright · Claude · Claude Code CLI · Agentes de IA · LLM APIs
 
 ## Proyectos destacados
 
-### [Services-Plans — Plataforma SaaS](https://github.com/jaldana18/back-Services-Plans)
+### [Services-Plans — Plataforma SaaS](https://github.com/jaldana18/portafolio#1-services-plans--plataforma-saas-comercial-código-privado)
 Plataforma para centralizar múltiples microservicios en un único portal con gestión de suscripciones y planes integrada. En lugar de N portales por aplicación, cada microservicio se embebe en un solo punto de acceso. Arquitectura multi-tenant con JWT que incluye `company_id` y `plan_id`, soporte multi-empresa y control de acceso por features del plan.  
 `Node.js` `React` `Prisma` `PostgreSQL` `JWT` `Docker` `Vite`
 
-> Repos: [back-admin](https://github.com/jaldana18/back-Services-Plans) · [back-portal](https://github.com/jaldana18/back-portal-clients) · [front-admin](https://github.com/jaldana18/front-Services-Plans) · [front-portal](https://github.com/jaldana18/front-portal-clients)
+> Proyecto comercial en desarrollo — [ver arquitectura y detalles](https://github.com/jaldana18/portafolio)
 
 ### [Agente de QA con IA](https://github.com/jaldana18/gestor-de-proyectos-por-agentes)
 Sistema de automatización de pruebas que combina Playwright con Claude para ejecutar tests de experiencia de usuario, seguridad y edge cases sobre los desarrollos de la compañía. Diseñado para escalar a toda la organización incluyendo automatización en operación.  
