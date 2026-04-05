@@ -41,13 +41,17 @@ Plataforma para centralizar múltiples microservicios en un único portal con ge
 
 > Proyecto comercial en desarrollo — [ver arquitectura y detalles](https://github.com/jaldana18/portafolio)
 
-### [Agente de QA con IA](https://github.com/jaldana18/gestor-de-proyectos-por-agentes)
+### [Agente de QA con IA](https://github.com/jaldana18/portafolio#2-agente-de-qa-con-ia-en-desarrollo)
 Sistema de automatización de pruebas que combina Playwright con Claude para ejecutar tests de experiencia de usuario, seguridad y edge cases sobre los desarrollos de la compañía. Diseñado para escalar a toda la organización incluyendo automatización en operación.  
 `Node.js` `React` `Playwright` `Claude CLI` `TypeScript`
 
-### [Backend Módulo Facturador](https://github.com/jaldana18/backend-modulo-facturador)
+> Código privado — [ver arquitectura y detalles](https://github.com/jaldana18/portafolio)
+
+### [Backend Módulo Facturador](https://github.com/jaldana18/portafolio#3-backend-módulo-facturador)
 API REST multi-tenant con autenticación JWT, RBAC, cifrado AES-256-GCM, auditoría completa y gestión de inventario multi-bodega.  
 `Node.js` `TypeScript` `TypeORM` `SQL Server` `Express`
+
+> Código privado — [ver arquitectura y detalles](https://github.com/jaldana18/portafolio)
 
 ### [Sistema de Búsqueda de Empleo Automatizado](https://github.com/jaldana18/sistema-busqueda-empleos)
 Herramienta full stack que automatiza scraping en LinkedIn, Computrabajo, Indeed y Elempleo. Integra Claude AI para análisis de viabilidad de ofertas y generación de cartas de presentación personalizadas.  
